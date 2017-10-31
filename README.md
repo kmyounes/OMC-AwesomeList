@@ -1,5 +1,5 @@
 # **AWESOME LIST**:
-## _Alternative Software List_ :
+## Alternative Software List :
 ### **CAD Software:**
 1.  [**Draftsight**](https://www.3ds.com/fr/produits-et-services/draftsight-cad-software/free-download/) **:** is a Dassault Systemes (SolidWorks) completely unapologetic knockoff of AutoCad.
 2.  [**PythonCAD**](https://sourceforge.net/projects/pythoncad/) **:** it's an open source CAD project, written in Python, is aimed at providing a program that can be used with great success on Linux and Unix. 
